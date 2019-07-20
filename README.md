@@ -1,1 +1,1 @@
-# image-slideshow-using-Javascript
+# image-slideshow
